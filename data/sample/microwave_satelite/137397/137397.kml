@@ -1,0 +1,3341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Folder>
+      <Placemark>
+        <MultiGeometry>
+          <LineString>
+            <coordinates> -8.64850,13.99833,38 -8.59900,13.96850,173 -8.71633,14.05900,38 -8.71783,14.06200,39 -8.71783,14.06200,38 -8.66000,14.08333,76 -8.52583,14.02400,62 -8.81867,14.08533,34 -8.80650,14.08100,37 -8.80650,14.08117,37 -8.80650,14.08100,39 -8.85567,14.11033,36 -8.76617,14.07967,53 -8.79650,13.93950,84 -8.77367,14.02150,40 -8.77533,14.02350,40 -8.77533,14.02350,39 -8.79450,13.97750,95 -8.58650,13.92683,55 -8.74433,14.04100,111 -8.77367,14.07200,38 -8.77333,14.07267,39 -8.77333,14.07267,39 -8.77333,14.07333,37 -8.75117,13.92150,36 -8.75833,13.92483,37 -8.75817,13.92500,37 -8.75867,13.92533,36 -8.75850,13.92533,37 -8.75800,13.92500,37 -8.75817,13.92500,37 -8.76317,13.90517,35 -8.75817,13.92483,36 -8.75517,13.92117,36 -8.75500,13.92117,38 -8.74350,13.95917,55 -8.82867,13.93150,44 -8.76333,13.90533,35 -8.71650,14.05867,39 -8.71633,14.05850,42 -8.71650,14.05867,39 -8.75817,13.92500,36 -8.75833,13.92467,36 -8.76367,13.90317,66 -8.75800,13.92500,37 -8.75850,13.92633,38 -8.75850,13.92633,38 -8.75817,13.92500,37 -8.84800,13.97567,116 -8.75817,13.92500,37 -8.75817,13.92500,37 -8.75850,13.92650,37 -8.75850,13.92650,38 -8.75533,13.91483,41 -8.75817,13.92500,43 -8.73350,13.99100,48 -8.72183,14.01100,42 -8.72150,14.01517,41 -8.72150,14.01517,42 -8.72117,14.00567,42 -8.72767,13.98067,75 -8.68267,13.98600,122 -8.72217,14.00950,41 -8.72183,14.01200,41 -8.72183,14.01200,41 -8.76217,13.90583,35 -8.75700,13.98833,87 -8.72350,13.99833,112 -8.72150,14.03817,146 -8.72267,14.01283,58 -8.72267,14.01267,44 -8.76500,13.92783,95 -8.72483,13.85850,101 -8.80533,13.92133,38 -8.72200,14.00967,39 -8.72183,14.01200,41 -8.72183,14.01200,41 -8.78933,13.92950,36 -8.80750,13.94200,35 -8.78917,13.92967,36 -8.74283,13.96033,40 -8.73733,13.96183,41 -8.73000,13.96033,42 -8.78883,13.92900,88 -8.74667,13.96267,43 -8.74267,13.95917,62 -8.72767,14.06967,192 -8.71567,14.06233,61 -8.71567,14.06233,42 -8.77283,13.97150,38 -8.77300,13.97150,38 -8.74117,13.94917,45 -8.74100,13.94867,43 -8.74183,13.95200,42 -8.74183,13.95200,42 -8.74133,13.96150,40 -8.74283,13.96183,40 -8.73433,13.96183,41 -8.73450,13.96100,42 -8.73317,13.96083,41 -8.73867,13.96617,41 -8.73867,13.96600,41 -8.74383,13.96100,43 -8.73583,13.96183,58 -8.72317,14.02767,97 -8.71617,14.05833,41 -8.71633,14.05833,39 -8.71633,14.05833,39 -8.71617,14.05833,39 -8.74367,14.00150,40 -8.76467,13.90467,35 -8.73533,13.96133,41 -8.73083,13.97000,95 -8.71667,14.05867,64 -8.71567,14.05817,43 -8.71567,14.05817,40 -8.73500,13.94650,58 -8.73433,13.96017,57 -8.74667,13.94133,103 -8.71800,14.06417,138 -8.71650,14.05850,40 -8.71633,14.05900,39 -8.71633,14.05900,38 -8.72650,14.00050,67 -8.59133,13.92067,108 -8.73500,13.96167,41 -8.71600,14.05917,37 -8.71617,14.05883,38 -8.71567,14.05883,38 -8.71567,14.05867,38 -8.79633,13.90417,72 -8.76450,13.90467,37 -8.69717,14.06267,113 -8.24400,14.69533,131 -7.73983,14.74533,60 -7.74083,14.74383,42 -7.74083,14.74367,41 -7.75750,14.75267,54 -7.79600,14.78867,41 -7.47233,15.37833,53</coordinates>
+            <tessellate>1</tessellate>
+          </LineString>
+        </MultiGeometry>
+        <Style id="PathState">
+          <LineStyle>
+            <width>1.5</width>
+            <color>F00080E0</color>
+          </LineStyle>
+        </Style>
+        <name>Path</name>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-16T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.99833°N   -8.64850°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-16 13:00</name>
+        <description><![CDATA[<i> 13.99833°N   -8.64850°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.64850,13.99833,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-16T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96850°N   -8.59900°E<br/>173 m 28 kph 342°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-16 15:00</name>
+        <description><![CDATA[<i> 13.96850°N   -8.59900°E</i><br/>  Altitude:   173 m<br/>  Speed:    28 kph<br/>  Course:   342°]]></description>
+        <Point>
+          <coordinates>-8.59900,13.96850,173</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-16T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05900°N   -8.71633°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-16 17:00</name>
+        <description><![CDATA[<i> 14.05900°N   -8.71633°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71633,14.05900,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-16T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.06200°N   -8.71783°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-16 19:00</name>
+        <description><![CDATA[<i> 14.06200°N   -8.71783°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71783,14.06200,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-16T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.06200°N   -8.71783°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-16 21:00</name>
+        <description><![CDATA[<i> 14.06200°N   -8.71783°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71783,14.06200,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-17T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.08333°N   -8.66000°E<br/> 76 m 12 kph 322°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-17 11:00</name>
+        <description><![CDATA[<i> 14.08333°N   -8.66000°E</i><br/>  Altitude:    76 m<br/>  Speed:    12 kph<br/>  Course:   322°]]></description>
+        <Point>
+          <coordinates>-8.66000,14.08333,76</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-17T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.02400°N   -8.52583°E<br/> 62 m 21 kph 260°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-17 13:00</name>
+        <description><![CDATA[<i> 14.02400°N   -8.52583°E</i><br/>  Altitude:    62 m<br/>  Speed:    21 kph<br/>  Course:   260°]]></description>
+        <Point>
+          <coordinates>-8.52583,14.02400,62</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-17T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.08533°N   -8.81867°E<br/> 34 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-17 15:00</name>
+        <description><![CDATA[<i> 14.08533°N   -8.81867°E</i><br/>  Altitude:    34 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.81867,14.08533,34</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-17T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.08100°N   -8.80650°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-17 17:00</name>
+        <description><![CDATA[<i> 14.08100°N   -8.80650°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.80650,14.08100,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-17T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.08117°N   -8.80650°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-17 19:00</name>
+        <description><![CDATA[<i> 14.08117°N   -8.80650°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.80650,14.08117,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-17T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.08100°N   -8.80650°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-17 21:00</name>
+        <description><![CDATA[<i> 14.08100°N   -8.80650°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.80650,14.08100,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-18T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.11033°N   -8.85567°E<br/> 36 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-18 11:00</name>
+        <description><![CDATA[<i> 14.11033°N   -8.85567°E</i><br/>  Altitude:    36 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.85567,14.11033,36</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-18T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.07967°N   -8.76617°E<br/> 53 m 21 kph 152°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-18 13:00</name>
+        <description><![CDATA[<i> 14.07967°N   -8.76617°E</i><br/>  Altitude:    53 m<br/>  Speed:    21 kph<br/>  Course:   152°]]></description>
+        <Point>
+          <coordinates>-8.76617,14.07967,53</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-18T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.93950°N   -8.79650°E<br/> 84 m 28 kph 29°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-18 15:00</name>
+        <description><![CDATA[<i> 13.93950°N   -8.79650°E</i><br/>  Altitude:    84 m<br/>  Speed:    28 kph<br/>  Course:    29°]]></description>
+        <Point>
+          <coordinates>-8.79650,13.93950,84</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-18T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.02150°N   -8.77367°E<br/> 40 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-18 17:00</name>
+        <description><![CDATA[<i> 14.02150°N   -8.77367°E</i><br/>  Altitude:    40 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.77367,14.02150,40</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-18T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.02350°N   -8.77533°E<br/> 40 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-18 19:00</name>
+        <description><![CDATA[<i> 14.02350°N   -8.77533°E</i><br/>  Altitude:    40 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.77533,14.02350,40</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-18T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.02350°N   -8.77533°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-18 21:00</name>
+        <description><![CDATA[<i> 14.02350°N   -8.77533°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.77533,14.02350,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-19T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.97750°N   -8.79450°E<br/> 95 m 21 kph 105°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-19 11:00</name>
+        <description><![CDATA[<i> 13.97750°N   -8.79450°E</i><br/>  Altitude:    95 m<br/>  Speed:    21 kph<br/>  Course:   105°]]></description>
+        <Point>
+          <coordinates>-8.79450,13.97750,95</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-19T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92683°N   -8.58650°E<br/> 55 m 17 kph 281°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-19 13:00</name>
+        <description><![CDATA[<i> 13.92683°N   -8.58650°E</i><br/>  Altitude:    55 m<br/>  Speed:    17 kph<br/>  Course:   281°]]></description>
+        <Point>
+          <coordinates>-8.58650,13.92683,55</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-19T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.04100°N   -8.74433°E<br/>111 m 36 kph 38°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-19 15:00</name>
+        <description><![CDATA[<i> 14.04100°N   -8.74433°E</i><br/>  Altitude:   111 m<br/>  Speed:    36 kph<br/>  Course:    38°]]></description>
+        <Point>
+          <coordinates>-8.74433,14.04100,111</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-19T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.07200°N   -8.77367°E<br/> 38 m 1 kph 194°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-19 17:00</name>
+        <description><![CDATA[<i> 14.07200°N   -8.77367°E</i><br/>  Altitude:    38 m<br/>  Speed:     1 kph<br/>  Course:   194°]]></description>
+        <Point>
+          <coordinates>-8.77367,14.07200,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-19T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.07267°N   -8.77333°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-19 19:00</name>
+        <description><![CDATA[<i> 14.07267°N   -8.77333°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.77333,14.07267,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-19T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.07267°N   -8.77333°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-19 21:00</name>
+        <description><![CDATA[<i> 14.07267°N   -8.77333°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.77333,14.07267,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-20T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.07333°N   -8.77333°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-20 11:00</name>
+        <description><![CDATA[<i> 14.07333°N   -8.77333°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.77333,14.07333,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-20T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92150°N   -8.75117°E<br/> 36 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-20 13:00</name>
+        <description><![CDATA[<i> 13.92150°N   -8.75117°E</i><br/>  Altitude:    36 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75117,13.92150,36</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-20T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92483°N   -8.75833°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-20 15:00</name>
+        <description><![CDATA[<i> 13.92483°N   -8.75833°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75833,13.92483,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-20T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92500°N   -8.75817°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-20 17:00</name>
+        <description><![CDATA[<i> 13.92500°N   -8.75817°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75817,13.92500,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-20T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92533°N   -8.75867°E<br/> 36 m 0 kph 300°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-20 19:00</name>
+        <description><![CDATA[<i> 13.92533°N   -8.75867°E</i><br/>  Altitude:    36 m<br/>  Speed:     0 kph<br/>  Course:   300°]]></description>
+        <Point>
+          <coordinates>-8.75867,13.92533,36</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-20T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92533°N   -8.75850°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-20 21:00</name>
+        <description><![CDATA[<i> 13.92533°N   -8.75850°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75850,13.92533,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-21T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92500°N   -8.75800°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-21 11:00</name>
+        <description><![CDATA[<i> 13.92500°N   -8.75800°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75800,13.92500,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-21T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92500°N   -8.75817°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-21 13:00</name>
+        <description><![CDATA[<i> 13.92500°N   -8.75817°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75817,13.92500,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-21T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.90517°N   -8.76317°E<br/> 35 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-21 15:00</name>
+        <description><![CDATA[<i> 13.90517°N   -8.76317°E</i><br/>  Altitude:    35 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.76317,13.90517,35</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-21T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92483°N   -8.75817°E<br/> 36 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-21 17:00</name>
+        <description><![CDATA[<i> 13.92483°N   -8.75817°E</i><br/>  Altitude:    36 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75817,13.92483,36</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-21T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92117°N   -8.75517°E<br/> 36 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-21 19:00</name>
+        <description><![CDATA[<i> 13.92117°N   -8.75517°E</i><br/>  Altitude:    36 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75517,13.92117,36</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-21T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92117°N   -8.75500°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-21 21:00</name>
+        <description><![CDATA[<i> 13.92117°N   -8.75500°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75500,13.92117,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-22T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.95917°N   -8.74350°E<br/> 55 m 15 kph 15°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-22 11:00</name>
+        <description><![CDATA[<i> 13.95917°N   -8.74350°E</i><br/>  Altitude:    55 m<br/>  Speed:    15 kph<br/>  Course:    15°]]></description>
+        <Point>
+          <coordinates>-8.74350,13.95917,55</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-22T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.93150°N   -8.82867°E<br/> 44 m 10 kph 357°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-22 13:00</name>
+        <description><![CDATA[<i> 13.93150°N   -8.82867°E</i><br/>  Altitude:    44 m<br/>  Speed:    10 kph<br/>  Course:   357°]]></description>
+        <Point>
+          <coordinates>-8.82867,13.93150,44</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-22T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.90533°N   -8.76333°E<br/> 35 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-22 15:00</name>
+        <description><![CDATA[<i> 13.90533°N   -8.76333°E</i><br/>  Altitude:    35 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.76333,13.90533,35</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-22T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05867°N   -8.71650°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-22 17:00</name>
+        <description><![CDATA[<i> 14.05867°N   -8.71650°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71650,14.05867,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-22T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05850°N   -8.71633°E<br/> 42 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-22 19:00</name>
+        <description><![CDATA[<i> 14.05850°N   -8.71633°E</i><br/>  Altitude:    42 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71633,14.05850,42</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-22T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05867°N   -8.71650°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-22 21:00</name>
+        <description><![CDATA[<i> 14.05867°N   -8.71650°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71650,14.05867,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-23T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92500°N   -8.75817°E<br/> 36 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-23 11:00</name>
+        <description><![CDATA[<i> 13.92500°N   -8.75817°E</i><br/>  Altitude:    36 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75817,13.92500,36</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-23T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92467°N   -8.75833°E<br/> 36 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-23 13:00</name>
+        <description><![CDATA[<i> 13.92467°N   -8.75833°E</i><br/>  Altitude:    36 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75833,13.92467,36</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-23T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.90317°N   -8.76367°E<br/> 66 m 25 kph 4°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-23 15:00</name>
+        <description><![CDATA[<i> 13.90317°N   -8.76367°E</i><br/>  Altitude:    66 m<br/>  Speed:    25 kph<br/>  Course:     4°]]></description>
+        <Point>
+          <coordinates>-8.76367,13.90317,66</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-23T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92500°N   -8.75800°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-23 17:00</name>
+        <description><![CDATA[<i> 13.92500°N   -8.75800°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75800,13.92500,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-23T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92633°N   -8.75850°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-23 19:00</name>
+        <description><![CDATA[<i> 13.92633°N   -8.75850°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75850,13.92633,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-23T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92633°N   -8.75850°E<br/> 38 m 1 kph 132°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-23 21:00</name>
+        <description><![CDATA[<i> 13.92633°N   -8.75850°E</i><br/>  Altitude:    38 m<br/>  Speed:     1 kph<br/>  Course:   132°]]></description>
+        <Point>
+          <coordinates>-8.75850,13.92633,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-24T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92500°N   -8.75817°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-24 11:00</name>
+        <description><![CDATA[<i> 13.92500°N   -8.75817°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75817,13.92500,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-24T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.97567°N   -8.84800°E<br/>116 m 23 kph 212°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-24 13:00</name>
+        <description><![CDATA[<i> 13.97567°N   -8.84800°E</i><br/>  Altitude:   116 m<br/>  Speed:    23 kph<br/>  Course:   212°]]></description>
+        <Point>
+          <coordinates>-8.84800,13.97567,116</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-24T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92500°N   -8.75817°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-24 15:00</name>
+        <description><![CDATA[<i> 13.92500°N   -8.75817°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75817,13.92500,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-24T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92500°N   -8.75817°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-24 17:00</name>
+        <description><![CDATA[<i> 13.92500°N   -8.75817°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75817,13.92500,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-24T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92650°N   -8.75850°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-24 19:00</name>
+        <description><![CDATA[<i> 13.92650°N   -8.75850°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75850,13.92650,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-24T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92650°N   -8.75850°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-24 21:00</name>
+        <description><![CDATA[<i> 13.92650°N   -8.75850°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75850,13.92650,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-25T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.91483°N   -8.75533°E<br/> 41 m 25 kph 228°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-25 11:00</name>
+        <description><![CDATA[<i> 13.91483°N   -8.75533°E</i><br/>  Altitude:    41 m<br/>  Speed:    25 kph<br/>  Course:   228°]]></description>
+        <Point>
+          <coordinates>-8.75533,13.91483,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-25T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92500°N   -8.75817°E<br/> 43 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-25 13:00</name>
+        <description><![CDATA[<i> 13.92500°N   -8.75817°E</i><br/>  Altitude:    43 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.75817,13.92500,43</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-25T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.99100°N   -8.73350°E<br/> 48 m 17 kph 10°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-25 15:00</name>
+        <description><![CDATA[<i> 13.99100°N   -8.73350°E</i><br/>  Altitude:    48 m<br/>  Speed:    17 kph<br/>  Course:    10°]]></description>
+        <Point>
+          <coordinates>-8.73350,13.99100,48</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-25T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.01100°N   -8.72183°E<br/> 42 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-25 17:00</name>
+        <description><![CDATA[<i> 14.01100°N   -8.72183°E</i><br/>  Altitude:    42 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72183,14.01100,42</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-25T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.01517°N   -8.72150°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-25 19:00</name>
+        <description><![CDATA[<i> 14.01517°N   -8.72150°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72150,14.01517,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-25T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.01517°N   -8.72150°E<br/> 42 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-25 21:00</name>
+        <description><![CDATA[<i> 14.01517°N   -8.72150°E</i><br/>  Altitude:    42 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72150,14.01517,42</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-26T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.00567°N   -8.72117°E<br/> 42 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-26 11:00</name>
+        <description><![CDATA[<i> 14.00567°N   -8.72117°E</i><br/>  Altitude:    42 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72117,14.00567,42</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-26T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.98067°N   -8.72767°E<br/> 75 m 22 kph 104°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-26 13:00</name>
+        <description><![CDATA[<i> 13.98067°N   -8.72767°E</i><br/>  Altitude:    75 m<br/>  Speed:    22 kph<br/>  Course:   104°]]></description>
+        <Point>
+          <coordinates>-8.72767,13.98067,75</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-26T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.98600°N   -8.68267°E<br/>122 m 35 kph 293°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-26 15:00</name>
+        <description><![CDATA[<i> 13.98600°N   -8.68267°E</i><br/>  Altitude:   122 m<br/>  Speed:    35 kph<br/>  Course:   293°]]></description>
+        <Point>
+          <coordinates>-8.68267,13.98600,122</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-26T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.00950°N   -8.72217°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-26 17:00</name>
+        <description><![CDATA[<i> 14.00950°N   -8.72217°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72217,14.00950,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-26T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.01200°N   -8.72183°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-26 19:00</name>
+        <description><![CDATA[<i> 14.01200°N   -8.72183°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72183,14.01200,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-26T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.01200°N   -8.72183°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-26 21:00</name>
+        <description><![CDATA[<i> 14.01200°N   -8.72183°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72183,14.01200,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-27T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.90583°N   -8.76217°E<br/> 35 m 0 kph 77°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-27 11:00</name>
+        <description><![CDATA[<i> 13.90583°N   -8.76217°E</i><br/>  Altitude:    35 m<br/>  Speed:     0 kph<br/>  Course:    77°]]></description>
+        <Point>
+          <coordinates>-8.76217,13.90583,35</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-27T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.98833°N   -8.75700°E<br/> 87 m 24 kph 29°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-27 13:00</name>
+        <description><![CDATA[<i> 13.98833°N   -8.75700°E</i><br/>  Altitude:    87 m<br/>  Speed:    24 kph<br/>  Course:    29°]]></description>
+        <Point>
+          <coordinates>-8.75700,13.98833,87</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-27T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.99833°N   -8.72350°E<br/>112 m 26 kph 23°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-27 15:00</name>
+        <description><![CDATA[<i> 13.99833°N   -8.72350°E</i><br/>  Altitude:   112 m<br/>  Speed:    26 kph<br/>  Course:    23°]]></description>
+        <Point>
+          <coordinates>-8.72350,13.99833,112</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-27T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.03817°N   -8.72150°E<br/>146 m 28 kph 153°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-27 17:00</name>
+        <description><![CDATA[<i> 14.03817°N   -8.72150°E</i><br/>  Altitude:   146 m<br/>  Speed:    28 kph<br/>  Course:   153°]]></description>
+        <Point>
+          <coordinates>-8.72150,14.03817,146</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-27T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.01283°N   -8.72267°E<br/> 58 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-27 19:00</name>
+        <description><![CDATA[<i> 14.01283°N   -8.72267°E</i><br/>  Altitude:    58 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72267,14.01283,58</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-27T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.01267°N   -8.72267°E<br/> 44 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-27 21:00</name>
+        <description><![CDATA[<i> 14.01267°N   -8.72267°E</i><br/>  Altitude:    44 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72267,14.01267,44</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-28T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92783°N   -8.76500°E<br/> 95 m 17 kph 19°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-28 11:00</name>
+        <description><![CDATA[<i> 13.92783°N   -8.76500°E</i><br/>  Altitude:    95 m<br/>  Speed:    17 kph<br/>  Course:    19°]]></description>
+        <Point>
+          <coordinates>-8.76500,13.92783,95</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-28T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.85850°N   -8.72483°E<br/>101 m 17 kph 310°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-28 13:00</name>
+        <description><![CDATA[<i> 13.85850°N   -8.72483°E</i><br/>  Altitude:   101 m<br/>  Speed:    17 kph<br/>  Course:   310°]]></description>
+        <Point>
+          <coordinates>-8.72483,13.85850,101</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-28T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92133°N   -8.80533°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-28 15:00</name>
+        <description><![CDATA[<i> 13.92133°N   -8.80533°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.80533,13.92133,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-28T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.00967°N   -8.72200°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-28 17:00</name>
+        <description><![CDATA[<i> 14.00967°N   -8.72200°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72200,14.00967,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-28T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.01200°N   -8.72183°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-28 19:00</name>
+        <description><![CDATA[<i> 14.01200°N   -8.72183°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72183,14.01200,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-28T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.01200°N   -8.72183°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-28 21:00</name>
+        <description><![CDATA[<i> 14.01200°N   -8.72183°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.72183,14.01200,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-29T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92950°N   -8.78933°E<br/> 36 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-29 11:00</name>
+        <description><![CDATA[<i> 13.92950°N   -8.78933°E</i><br/>  Altitude:    36 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.78933,13.92950,36</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-29T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.94200°N   -8.80750°E<br/> 35 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-29 13:00</name>
+        <description><![CDATA[<i> 13.94200°N   -8.80750°E</i><br/>  Altitude:    35 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.80750,13.94200,35</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-29T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92967°N   -8.78917°E<br/> 36 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-29 15:00</name>
+        <description><![CDATA[<i> 13.92967°N   -8.78917°E</i><br/>  Altitude:    36 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.78917,13.92967,36</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-29T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96033°N   -8.74283°E<br/> 40 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-29 17:00</name>
+        <description><![CDATA[<i> 13.96033°N   -8.74283°E</i><br/>  Altitude:    40 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.74283,13.96033,40</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-29T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96183°N   -8.73733°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-29 19:00</name>
+        <description><![CDATA[<i> 13.96183°N   -8.73733°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.73733,13.96183,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-29T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96033°N   -8.73000°E<br/> 42 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-29 21:00</name>
+        <description><![CDATA[<i> 13.96033°N   -8.73000°E</i><br/>  Altitude:    42 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.73000,13.96033,42</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-30T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92900°N   -8.78883°E<br/> 88 m 26 kph 164°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-30 11:00</name>
+        <description><![CDATA[<i> 13.92900°N   -8.78883°E</i><br/>  Altitude:    88 m<br/>  Speed:    26 kph<br/>  Course:   164°]]></description>
+        <Point>
+          <coordinates>-8.78883,13.92900,88</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-30T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96267°N   -8.74667°E<br/> 43 m 13 kph 94°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-30 13:00</name>
+        <description><![CDATA[<i> 13.96267°N   -8.74667°E</i><br/>  Altitude:    43 m<br/>  Speed:    13 kph<br/>  Course:    94°]]></description>
+        <Point>
+          <coordinates>-8.74667,13.96267,43</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-30T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.95917°N   -8.74267°E<br/> 62 m 25 kph 211°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-30 15:00</name>
+        <description><![CDATA[<i> 13.95917°N   -8.74267°E</i><br/>  Altitude:    62 m<br/>  Speed:    25 kph<br/>  Course:   211°]]></description>
+        <Point>
+          <coordinates>-8.74267,13.95917,62</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-30T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.06967°N   -8.72767°E<br/>192 m 21 kph 171°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-30 17:00</name>
+        <description><![CDATA[<i> 14.06967°N   -8.72767°E</i><br/>  Altitude:   192 m<br/>  Speed:    21 kph<br/>  Course:   171°]]></description>
+        <Point>
+          <coordinates>-8.72767,14.06967,192</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-30T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.06233°N   -8.71567°E<br/> 61 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-30 19:00</name>
+        <description><![CDATA[<i> 14.06233°N   -8.71567°E</i><br/>  Altitude:    61 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71567,14.06233,61</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-30T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.06233°N   -8.71567°E<br/> 42 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-30 21:00</name>
+        <description><![CDATA[<i> 14.06233°N   -8.71567°E</i><br/>  Altitude:    42 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71567,14.06233,42</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-31T11:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.97150°N   -8.77283°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-31 11:00</name>
+        <description><![CDATA[<i> 13.97150°N   -8.77283°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.77283,13.97150,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-31T13:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.97150°N   -8.77300°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-31 13:00</name>
+        <description><![CDATA[<i> 13.97150°N   -8.77300°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.77300,13.97150,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-31T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.94917°N   -8.74117°E<br/> 45 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-31 15:00</name>
+        <description><![CDATA[<i> 13.94917°N   -8.74117°E</i><br/>  Altitude:    45 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.74117,13.94917,45</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-31T17:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.94867°N   -8.74100°E<br/> 43 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-31 17:00</name>
+        <description><![CDATA[<i> 13.94867°N   -8.74100°E</i><br/>  Altitude:    43 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.74100,13.94867,43</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-31T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.95200°N   -8.74183°E<br/> 42 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-31 19:00</name>
+        <description><![CDATA[<i> 13.95200°N   -8.74183°E</i><br/>  Altitude:    42 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.74183,13.95200,42</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-03-31T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.95200°N   -8.74183°E<br/> 42 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Mar-31 21:00</name>
+        <description><![CDATA[<i> 13.95200°N   -8.74183°E</i><br/>  Altitude:    42 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.74183,13.95200,42</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-01T10:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96150°N   -8.74133°E<br/> 40 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-01 10:00</name>
+        <description><![CDATA[<i> 13.96150°N   -8.74133°E</i><br/>  Altitude:    40 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.74133,13.96150,40</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-01T12:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96183°N   -8.74283°E<br/> 40 m 25 kph 249°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-01 12:00</name>
+        <description><![CDATA[<i> 13.96183°N   -8.74283°E</i><br/>  Altitude:    40 m<br/>  Speed:    25 kph<br/>  Course:   249°]]></description>
+        <Point>
+          <coordinates>-8.74283,13.96183,40</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-01T14:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96183°N   -8.73433°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-01 14:00</name>
+        <description><![CDATA[<i> 13.96183°N   -8.73433°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.73433,13.96183,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-01T16:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96100°N   -8.73450°E<br/> 42 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-01 16:00</name>
+        <description><![CDATA[<i> 13.96100°N   -8.73450°E</i><br/>  Altitude:    42 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.73450,13.96100,42</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-01T18:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96083°N   -8.73317°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-01 18:00</name>
+        <description><![CDATA[<i> 13.96083°N   -8.73317°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.73317,13.96083,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-01T20:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96617°N   -8.73867°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-01 20:00</name>
+        <description><![CDATA[<i> 13.96617°N   -8.73867°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.73867,13.96617,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-01T22:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96600°N   -8.73867°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-01 22:00</name>
+        <description><![CDATA[<i> 13.96600°N   -8.73867°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.73867,13.96600,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-02T10:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96100°N   -8.74383°E<br/> 43 m 14 kph 151°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-02 10:00</name>
+        <description><![CDATA[<i> 13.96100°N   -8.74383°E</i><br/>  Altitude:    43 m<br/>  Speed:    14 kph<br/>  Course:   151°]]></description>
+        <Point>
+          <coordinates>-8.74383,13.96100,43</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-02T12:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96183°N   -8.73583°E<br/> 58 m 19 kph 213°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-02 12:00</name>
+        <description><![CDATA[<i> 13.96183°N   -8.73583°E</i><br/>  Altitude:    58 m<br/>  Speed:    19 kph<br/>  Course:   213°]]></description>
+        <Point>
+          <coordinates>-8.73583,13.96183,58</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-02T14:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.02767°N   -8.72317°E<br/> 97 m 28 kph 30°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-02 14:00</name>
+        <description><![CDATA[<i> 14.02767°N   -8.72317°E</i><br/>  Altitude:    97 m<br/>  Speed:    28 kph<br/>  Course:    30°]]></description>
+        <Point>
+          <coordinates>-8.72317,14.02767,97</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-02T16:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05833°N   -8.71617°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-02 16:00</name>
+        <description><![CDATA[<i> 14.05833°N   -8.71617°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71617,14.05833,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-02T18:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05833°N   -8.71633°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-02 18:00</name>
+        <description><![CDATA[<i> 14.05833°N   -8.71633°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71633,14.05833,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-02T20:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05833°N   -8.71633°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-02 20:00</name>
+        <description><![CDATA[<i> 14.05833°N   -8.71633°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71633,14.05833,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-02T22:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05833°N   -8.71617°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-02 22:00</name>
+        <description><![CDATA[<i> 14.05833°N   -8.71617°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71617,14.05833,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-03T10:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.00150°N   -8.74367°E<br/> 40 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-03 10:00</name>
+        <description><![CDATA[<i> 14.00150°N   -8.74367°E</i><br/>  Altitude:    40 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.74367,14.00150,40</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-03T12:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.90467°N   -8.76467°E<br/> 35 m 0 kph 247°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-03 12:00</name>
+        <description><![CDATA[<i> 13.90467°N   -8.76467°E</i><br/>  Altitude:    35 m<br/>  Speed:     0 kph<br/>  Course:   247°]]></description>
+        <Point>
+          <coordinates>-8.76467,13.90467,35</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-03T14:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96133°N   -8.73533°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-03 14:00</name>
+        <description><![CDATA[<i> 13.96133°N   -8.73533°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.73533,13.96133,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-03T16:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.97000°N   -8.73083°E<br/> 95 m 21 kph 51°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-03 16:00</name>
+        <description><![CDATA[<i> 13.97000°N   -8.73083°E</i><br/>  Altitude:    95 m<br/>  Speed:    21 kph<br/>  Course:    51°]]></description>
+        <Point>
+          <coordinates>-8.73083,13.97000,95</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-03T18:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05867°N   -8.71667°E<br/> 64 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-03 18:00</name>
+        <description><![CDATA[<i> 14.05867°N   -8.71667°E</i><br/>  Altitude:    64 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71667,14.05867,64</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-03T20:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05817°N   -8.71567°E<br/> 43 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-03 20:00</name>
+        <description><![CDATA[<i> 14.05817°N   -8.71567°E</i><br/>  Altitude:    43 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71567,14.05817,43</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-03T22:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05817°N   -8.71567°E<br/> 40 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-03 22:00</name>
+        <description><![CDATA[<i> 14.05817°N   -8.71567°E</i><br/>  Altitude:    40 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71567,14.05817,40</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-04T10:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.94650°N   -8.73500°E<br/> 58 m 4 kph 123°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-04 10:00</name>
+        <description><![CDATA[<i> 13.94650°N   -8.73500°E</i><br/>  Altitude:    58 m<br/>  Speed:     4 kph<br/>  Course:   123°]]></description>
+        <Point>
+          <coordinates>-8.73500,13.94650,58</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-04T12:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96017°N   -8.73433°E<br/> 57 m 8 kph 109°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-04 12:00</name>
+        <description><![CDATA[<i> 13.96017°N   -8.73433°E</i><br/>  Altitude:    57 m<br/>  Speed:     8 kph<br/>  Course:   109°]]></description>
+        <Point>
+          <coordinates>-8.73433,13.96017,57</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-04T14:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.94133°N   -8.74667°E<br/>103 m 22 kph 212°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-04 14:00</name>
+        <description><![CDATA[<i> 13.94133°N   -8.74667°E</i><br/>  Altitude:   103 m<br/>  Speed:    22 kph<br/>  Course:   212°]]></description>
+        <Point>
+          <coordinates>-8.74667,13.94133,103</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-04T16:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.06417°N   -8.71800°E<br/>138 m 24 kph 147°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-04 16:00</name>
+        <description><![CDATA[<i> 14.06417°N   -8.71800°E</i><br/>  Altitude:   138 m<br/>  Speed:    24 kph<br/>  Course:   147°]]></description>
+        <Point>
+          <coordinates>-8.71800,14.06417,138</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-04T18:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05850°N   -8.71650°E<br/> 40 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-04 18:00</name>
+        <description><![CDATA[<i> 14.05850°N   -8.71650°E</i><br/>  Altitude:    40 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71650,14.05850,40</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-04T20:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05900°N   -8.71633°E<br/> 39 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-04 20:00</name>
+        <description><![CDATA[<i> 14.05900°N   -8.71633°E</i><br/>  Altitude:    39 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71633,14.05900,39</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-04T22:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05900°N   -8.71633°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-04 22:00</name>
+        <description><![CDATA[<i> 14.05900°N   -8.71633°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71633,14.05900,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-05T10:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.00050°N   -8.72650°E<br/> 67 m 29 kph 168°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-05 10:00</name>
+        <description><![CDATA[<i> 14.00050°N   -8.72650°E</i><br/>  Altitude:    67 m<br/>  Speed:    29 kph<br/>  Course:   168°]]></description>
+        <Point>
+          <coordinates>-8.72650,14.00050,67</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-05T12:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.92067°N   -8.59133°E<br/>108 m 25 kph 246°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-05 12:00</name>
+        <description><![CDATA[<i> 13.92067°N   -8.59133°E</i><br/>  Altitude:   108 m<br/>  Speed:    25 kph<br/>  Course:   246°]]></description>
+        <Point>
+          <coordinates>-8.59133,13.92067,108</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-05T14:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.96167°N   -8.73500°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-05 14:00</name>
+        <description><![CDATA[<i> 13.96167°N   -8.73500°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.73500,13.96167,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-05T16:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05917°N   -8.71600°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-05 16:00</name>
+        <description><![CDATA[<i> 14.05917°N   -8.71600°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71600,14.05917,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-05T18:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05883°N   -8.71617°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-05 18:00</name>
+        <description><![CDATA[<i> 14.05883°N   -8.71617°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71617,14.05883,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-05T20:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05883°N   -8.71567°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-05 20:00</name>
+        <description><![CDATA[<i> 14.05883°N   -8.71567°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71567,14.05883,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-05T22:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.05867°N   -8.71567°E<br/> 38 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-05 22:00</name>
+        <description><![CDATA[<i> 14.05867°N   -8.71567°E</i><br/>  Altitude:    38 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.71567,14.05867,38</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-06T10:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.90417°N   -8.79633°E<br/> 72 m 33 kph 183°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-06 10:00</name>
+        <description><![CDATA[<i> 13.90417°N   -8.79633°E</i><br/>  Altitude:    72 m<br/>  Speed:    33 kph<br/>  Course:   183°]]></description>
+        <Point>
+          <coordinates>-8.79633,13.90417,72</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-06T12:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 13.90467°N   -8.76450°E<br/> 37 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-06 12:00</name>
+        <description><![CDATA[<i> 13.90467°N   -8.76450°E</i><br/>  Altitude:    37 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-8.76450,13.90467,37</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-06T14:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.06267°N   -8.69717°E<br/>113 m 19 kph 51°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-06 14:00</name>
+        <description><![CDATA[<i> 14.06267°N   -8.69717°E</i><br/>  Altitude:   113 m<br/>  Speed:    19 kph<br/>  Course:    51°]]></description>
+        <Point>
+          <coordinates>-8.69717,14.06267,113</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-06T16:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.69533°N   -8.24400°E<br/>131 m 30 kph 44°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-06 16:00</name>
+        <description><![CDATA[<i> 14.69533°N   -8.24400°E</i><br/>  Altitude:   131 m<br/>  Speed:    30 kph<br/>  Course:    44°]]></description>
+        <Point>
+          <coordinates>-8.24400,14.69533,131</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-06T18:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.74533°N   -7.73983°E<br/> 60 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-06 18:00</name>
+        <description><![CDATA[<i> 14.74533°N   -7.73983°E</i><br/>  Altitude:    60 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-7.73983,14.74533,60</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-06T19:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.74383°N   -7.74083°E<br/> 42 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-06 19:00</name>
+        <description><![CDATA[<i> 14.74383°N   -7.74083°E</i><br/>  Altitude:    42 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-7.74083,14.74383,42</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-06T21:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.74367°N   -7.74083°E<br/> 41 m 0 kph 0°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-06 21:00</name>
+        <description><![CDATA[<i> 14.74367°N   -7.74083°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:     0°]]></description>
+        <Point>
+          <coordinates>-7.74083,14.74367,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-07T09:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.75267°N   -7.75750°E<br/> 54 m 25 kph 250°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-07 09:00</name>
+        <description><![CDATA[<i> 14.75267°N   -7.75750°E</i><br/>  Altitude:    54 m<br/>  Speed:    25 kph<br/>  Course:   250°]]></description>
+        <Point>
+          <coordinates>-7.75750,14.75267,54</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-07T10:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 14.78867°N   -7.79600°E<br/> 41 m 0 kph 83°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-07 10:00</name>
+        <description><![CDATA[<i> 14.78867°N   -7.79600°E</i><br/>  Altitude:    41 m<br/>  Speed:     0 kph<br/>  Course:    83°]]></description>
+        <Point>
+          <coordinates>-7.79600,14.78867,41</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <TimeStamp>
+          <when>2016-04-07T15:00:00Z</when>
+        </TimeStamp>
+        <Snippet><![CDATA[ 15.37833°N   -7.47233°E<br/> 53 m 20 kph 154°]]></Snippet>
+        <styleUrl>#PntIcon</styleUrl>
+        <name>2016-Apr-07 15:00</name>
+        <description><![CDATA[<i> 15.37833°N   -7.47233°E</i><br/>  Altitude:    53 m<br/>  Speed:    20 kph<br/>  Course:   154°]]></description>
+        <Point>
+          <coordinates>-7.47233,15.37833,53</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+        </Point>
+      </Placemark>
+      <name>GPS Data</name>
+    </Folder>
+    <Folder>
+      <visibility>0</visibility>
+      <Placemark>
+        <visibility>0</visibility>
+        <MultiGeometry>
+          <LineString>
+            <coordinates> -8.772,14.023 -8.779,14.030 -8.768,14.070 -8.768,14.069 -8.765,14.072 -8.788,14.081 -8.825,14.061 -8.745,13.924 -8.732,13.989 -8.761,13.928 -8.827,13.943 -8.776,13.890 -8.792,13.914 -8.870,13.955 -8.745,13.922 -8.676,14.036 -8.694,14.058 -8.677,14.083 -8.760,14.021 -8.831,13.936 -8.785,13.868 -8.759,13.924 -8.974,13.945 -8.975,13.901 -8.976,13.919 -8.747,13.990 -8.769,13.999 -8.772,14.028 -8.728,14.009 -8.744,14.009 -8.736,14.006 -8.719,14.019 -8.706,14.025 -8.707,14.014 -8.727,14.013 -8.745,13.993 -8.746,14.005 -8.749,14.012 -8.753,14.012 -8.730,14.036 -8.761,14.021 -8.767,14.011 -8.724,14.018 -8.717,14.014 -8.704,14.011 -8.719,14.014 -8.747,14.011 -8.743,14.025 -8.740,14.025 -8.739,14.028 -8.695,14.020 -8.711,13.907 -8.798,13.942 -8.561,14.105 -8.724,14.057 -8.726,14.042 -8.939,13.936 -9.197,14.164 -8.746,13.965 -8.761,13.945 -8.714,13.950 -8.728,13.966 -8.727,13.962 -8.735,13.962 -8.728,13.980 -8.728,13.979 -8.741,13.965 -8.709,14.092 -8.717,14.059 -8.671,14.059 -8.702,14.063 -8.707,14.057 -8.703,14.062 -8.692,14.074 -8.711,14.060 -8.989,14.126 -8.718,14.019 -8.720,14.061 -8.696,14.056 -8.723,14.056 -8.887,14.009 -7.781,14.754 -7.755,14.733 -7.750,14.737 -7.762,14.777 -7.795,14.790 -7.253,15.363 -7.597,15.295 -7.542,15.159</coordinates>
+            <tessellate>1</tessellate>
+          </LineString>
+        </MultiGeometry>
+        <Style id="ArgosPathState">
+          <LineStyle>
+            <width>1.5</width>
+            <color>F0C0C0C0</color>
+          </LineStyle>
+        </Style>
+        <name>Argos Path</name>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-19T03:09:53Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-19 03:09</name>
+        <description><![CDATA[<i> 14.02300°N   -8.77200°E</i><br/><i> 14.02300°N   -8.77200°E</i>]]></description>
+        <Point>
+          <coordinates>-8.772,14.023</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-19T04:45:08Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-19 04:45</name>
+        <description><![CDATA[<i> 14.03000°N   -8.77900°E</i><br/><i> 14.03000°N   -8.77900°E</i>]]></description>
+        <Point>
+          <coordinates>-8.779,14.030</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-19T19:08:41Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-19 19:08</name>
+        <description><![CDATA[<i> 14.07000°N   -8.76800°E</i><br/><i> 14.07000°N   -8.76800°E</i>]]></description>
+        <Point>
+          <coordinates>-8.768,14.070</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-19T19:31:43Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-19 19:31</name>
+        <description><![CDATA[<i> 14.06900°N   -8.76800°E</i><br/><i> 14.06900°N   -8.76800°E</i>]]></description>
+        <Point>
+          <coordinates>-8.768,14.069</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-19T21:33:32Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-19 21:33</name>
+        <description><![CDATA[<i> 14.07200°N   -8.76500°E</i><br/><i> 14.07200°N   -8.76500°E</i>]]></description>
+        <Point>
+          <coordinates>-8.765,14.072</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-19T22:13:51Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-19 22:13</name>
+        <description><![CDATA[<i> 14.08100°N   -8.78800°E</i><br/><i> 14.08100°N   -8.78800°E</i>]]></description>
+        <Point>
+          <coordinates>-8.788,14.081</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-19T23:03:26Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-19 23:03</name>
+        <description><![CDATA[<i> 14.06100°N   -8.82500°E</i><br/><i> 14.06100°N   -8.82500°E</i>]]></description>
+        <Point>
+          <coordinates>-8.825,14.061</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T02:41:13Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-21 02:41</name>
+        <description><![CDATA[<i> 13.92400°N   -8.74500°E</i><br/><i> 13.92400°N   -8.74500°E</i>]]></description>
+        <Point>
+          <coordinates>-8.745,13.924</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T04:26:41Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCAstyle</styleUrl>
+        <name>2016-Mar-21 04:26</name>
+        <description><![CDATA[<i> 13.98900°N   -8.73200°E</i><br/><i> 13.98900°N   -8.73200°E</i>]]></description>
+        <Point>
+          <coordinates>-8.732,13.989</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T05:49:24Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-21 05:49</name>
+        <description><![CDATA[<i> 13.92800°N   -8.76100°E</i><br/><i> 13.92800°N   -8.76100°E</i>]]></description>
+        <Point>
+          <coordinates>-8.761,13.928</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T05:58:38Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-21 05:58</name>
+        <description><![CDATA[<i> 13.94300°N   -8.82700°E</i><br/><i> 13.94300°N   -8.82700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.827,13.943</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T07:38:16Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-21 07:38</name>
+        <description><![CDATA[<i> 13.89000°N   -8.77600°E</i><br/><i> 13.89000°N   -8.77600°E</i>]]></description>
+        <Point>
+          <coordinates>-8.776,13.890</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T07:39:16Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-21 07:39</name>
+        <description><![CDATA[<i> 13.91400°N   -8.79200°E</i><br/><i> 13.91400°N   -8.79200°E</i>]]></description>
+        <Point>
+          <coordinates>-8.792,13.914</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T09:36:31Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-21 09:36</name>
+        <description><![CDATA[<i> 13.95500°N   -8.87000°E</i><br/><i> 13.95500°N   -8.87000°E</i>]]></description>
+        <Point>
+          <coordinates>-8.870,13.955</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T10:22:59Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-21 10:22</name>
+        <description><![CDATA[<i> 13.92200°N   -8.74500°E</i><br/><i> 13.92200°N   -8.74500°E</i>]]></description>
+        <Point>
+          <coordinates>-8.745,13.922</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-23T06:48:03Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-23 06:48</name>
+        <description><![CDATA[<i> 14.03600°N   -8.67600°E</i><br/><i> 14.03600°N   -8.67600°E</i>]]></description>
+        <Point>
+          <coordinates>-8.676,14.036</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-23T07:04:46Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-23 07:04</name>
+        <description><![CDATA[<i> 14.05800°N   -8.69400°E</i><br/><i> 14.05800°N   -8.69400°E</i>]]></description>
+        <Point>
+          <coordinates>-8.694,14.058</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-23T07:14:02Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-23 07:14</name>
+        <description><![CDATA[<i> 14.08300°N   -8.67700°E</i><br/><i> 14.08300°N   -8.67700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.677,14.083</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-23T09:40:22Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-23 09:40</name>
+        <description><![CDATA[<i> 14.02100°N   -8.76000°E</i><br/><i> 14.02100°N   -8.76000°E</i>]]></description>
+        <Point>
+          <coordinates>-8.760,14.021</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-23T10:33:00Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-23 10:33</name>
+        <description><![CDATA[<i> 13.93600°N   -8.83100°E</i><br/><i> 13.93600°N   -8.83100°E</i>]]></description>
+        <Point>
+          <coordinates>-8.831,13.936</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-23T15:15:28Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-23 15:15</name>
+        <description><![CDATA[<i> 13.86800°N   -8.78500°E</i><br/><i> 13.86800°N   -8.78500°E</i>]]></description>
+        <Point>
+          <coordinates>-8.785,13.868</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-23T17:54:48Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-23 17:54</name>
+        <description><![CDATA[<i> 13.92400°N   -8.75900°E</i><br/><i> 13.92400°N   -8.75900°E</i>]]></description>
+        <Point>
+          <coordinates>-8.759,13.924</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T14:52:49Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-25 14:52</name>
+        <description><![CDATA[<i> 13.94500°N   -8.97400°E</i><br/><i> 13.94500°N   -8.97400°E</i>]]></description>
+        <Point>
+          <coordinates>-8.974,13.945</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T16:18:28Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-25 16:18</name>
+        <description><![CDATA[<i> 13.90100°N   -8.97500°E</i><br/><i> 13.90100°N   -8.97500°E</i>]]></description>
+        <Point>
+          <coordinates>-8.975,13.901</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T16:59:50Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-25 16:59</name>
+        <description><![CDATA[<i> 13.91900°N   -8.97600°E</i><br/><i> 13.91900°N   -8.97600°E</i>]]></description>
+        <Point>
+          <coordinates>-8.976,13.919</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T17:03:29Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-25 17:03</name>
+        <description><![CDATA[<i> 13.99000°N   -8.74700°E</i><br/><i> 13.99000°N   -8.74700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.747,13.990</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T17:56:20Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-25 17:56</name>
+        <description><![CDATA[<i> 13.99900°N   -8.76900°E</i><br/><i> 13.99900°N   -8.76900°E</i>]]></description>
+        <Point>
+          <coordinates>-8.769,13.999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T18:41:52Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-25 18:41</name>
+        <description><![CDATA[<i> 14.02800°N   -8.77200°E</i><br/><i> 14.02800°N   -8.77200°E</i>]]></description>
+        <Point>
+          <coordinates>-8.772,14.028</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T18:49:26Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-25 18:49</name>
+        <description><![CDATA[<i> 14.00900°N   -8.72800°E</i><br/><i> 14.00900°N   -8.72800°E</i>]]></description>
+        <Point>
+          <coordinates>-8.728,14.009</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T19:38:33Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-25 19:38</name>
+        <description><![CDATA[<i> 14.00900°N   -8.74400°E</i><br/><i> 14.00900°N   -8.74400°E</i>]]></description>
+        <Point>
+          <coordinates>-8.744,14.009</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T21:04:36Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-25 21:04</name>
+        <description><![CDATA[<i> 14.00600°N   -8.73600°E</i><br/><i> 14.00600°N   -8.73600°E</i>]]></description>
+        <Point>
+          <coordinates>-8.736,14.006</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T21:49:36Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-25 21:49</name>
+        <description><![CDATA[<i> 14.01900°N   -8.71900°E</i><br/><i> 14.01900°N   -8.71900°E</i>]]></description>
+        <Point>
+          <coordinates>-8.719,14.019</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T22:41:22Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-25 22:41</name>
+        <description><![CDATA[<i> 14.02500°N   -8.70600°E</i><br/><i> 14.02500°N   -8.70600°E</i>]]></description>
+        <Point>
+          <coordinates>-8.706,14.025</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T01:41:20Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-27 01:41</name>
+        <description><![CDATA[<i> 14.01400°N   -8.70700°E</i><br/><i> 14.01400°N   -8.70700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.707,14.014</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T03:15:02Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-27 03:15</name>
+        <description><![CDATA[<i> 14.01300°N   -8.72700°E</i><br/><i> 14.01300°N   -8.72700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.727,14.013</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T04:45:39Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-27 04:45</name>
+        <description><![CDATA[<i> 13.99300°N   -8.74500°E</i><br/><i> 13.99300°N   -8.74500°E</i>]]></description>
+        <Point>
+          <coordinates>-8.745,13.993</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T04:56:08Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-27 04:56</name>
+        <description><![CDATA[<i> 14.00500°N   -8.74600°E</i><br/><i> 14.00500°N   -8.74600°E</i>]]></description>
+        <Point>
+          <coordinates>-8.746,14.005</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T19:15:01Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-27 19:15</name>
+        <description><![CDATA[<i> 14.01200°N   -8.74900°E</i><br/><i> 14.01200°N   -8.74900°E</i>]]></description>
+        <Point>
+          <coordinates>-8.749,14.012</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T19:16:00Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-27 19:16</name>
+        <description><![CDATA[<i> 14.01200°N   -8.75300°E</i><br/><i> 14.01200°N   -8.75300°E</i>]]></description>
+        <Point>
+          <coordinates>-8.753,14.012</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T19:39:13Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCAstyle</styleUrl>
+        <name>2016-Mar-27 19:39</name>
+        <description><![CDATA[<i> 14.03600°N   -8.73000°E</i><br/><i> 14.03600°N   -8.73000°E</i>]]></description>
+        <Point>
+          <coordinates>-8.730,14.036</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T21:07:11Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-27 21:07</name>
+        <description><![CDATA[<i> 14.02100°N   -8.76100°E</i><br/><i> 14.02100°N   -8.76100°E</i>]]></description>
+        <Point>
+          <coordinates>-8.761,14.021</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T22:00:08Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-27 22:00</name>
+        <description><![CDATA[<i> 14.01100°N   -8.76700°E</i><br/><i> 14.01100°N   -8.76700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.767,14.011</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T22:49:32Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-27 22:49</name>
+        <description><![CDATA[<i> 14.01800°N   -8.72400°E</i><br/><i> 14.01800°N   -8.72400°E</i>]]></description>
+        <Point>
+          <coordinates>-8.724,14.018</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T02:50:58Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-29 02:50</name>
+        <description><![CDATA[<i> 14.01400°N   -8.71700°E</i><br/><i> 14.01400°N   -8.71700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.717,14.014</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T04:41:13Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-29 04:41</name>
+        <description><![CDATA[<i> 14.01100°N   -8.70400°E</i><br/><i> 14.01100°N   -8.70400°E</i>]]></description>
+        <Point>
+          <coordinates>-8.704,14.011</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T05:45:16Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-29 05:45</name>
+        <description><![CDATA[<i> 14.01400°N   -8.71900°E</i><br/><i> 14.01400°N   -8.71900°E</i>]]></description>
+        <Point>
+          <coordinates>-8.719,14.014</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T05:59:08Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-29 05:59</name>
+        <description><![CDATA[<i> 14.01100°N   -8.74700°E</i><br/><i> 14.01100°N   -8.74700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.747,14.011</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T06:03:18Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-29 06:03</name>
+        <description><![CDATA[<i> 14.02500°N   -8.74300°E</i><br/><i> 14.02500°N   -8.74300°E</i>]]></description>
+        <Point>
+          <coordinates>-8.743,14.025</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T07:29:44Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-29 07:29</name>
+        <description><![CDATA[<i> 14.02500°N   -8.74000°E</i><br/><i> 14.02500°N   -8.74000°E</i>]]></description>
+        <Point>
+          <coordinates>-8.740,14.025</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T07:38:50Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-29 07:38</name>
+        <description><![CDATA[<i> 14.02800°N   -8.73900°E</i><br/><i> 14.02800°N   -8.73900°E</i>]]></description>
+        <Point>
+          <coordinates>-8.739,14.028</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T09:21:33Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-29 09:21</name>
+        <description><![CDATA[<i> 14.02000°N   -8.69500°E</i><br/><i> 14.02000°N   -8.69500°E</i>]]></description>
+        <Point>
+          <coordinates>-8.695,14.020</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T10:09:13Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-29 10:09</name>
+        <description><![CDATA[<i> 13.90700°N   -8.71100°E</i><br/><i> 13.90700°N   -8.71100°E</i>]]></description>
+        <Point>
+          <coordinates>-8.711,13.907</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T10:59:17Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCAstyle</styleUrl>
+        <name>2016-Mar-29 10:59</name>
+        <description><![CDATA[<i> 13.94200°N   -8.79800°E</i><br/><i> 13.94200°N   -8.79800°E</i>]]></description>
+        <Point>
+          <coordinates>-8.798,13.942</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-31T06:22:22Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-31 06:22</name>
+        <description><![CDATA[<i> 14.10500°N   -8.56100°E</i><br/><i> 14.10500°N   -8.56100°E</i>]]></description>
+        <Point>
+          <coordinates>-8.561,14.105</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-31T06:50:56Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-31 06:50</name>
+        <description><![CDATA[<i> 14.05700°N   -8.72400°E</i><br/><i> 14.05700°N   -8.72400°E</i>]]></description>
+        <Point>
+          <coordinates>-8.724,14.057</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-31T07:20:47Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-31 07:20</name>
+        <description><![CDATA[<i> 14.04200°N   -8.72600°E</i><br/><i> 14.04200°N   -8.72600°E</i>]]></description>
+        <Point>
+          <coordinates>-8.726,14.042</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-31T10:15:49Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-31 10:15</name>
+        <description><![CDATA[<i> 13.93600°N   -8.93900°E</i><br/><i> 13.93600°N   -8.93900°E</i>]]></description>
+        <Point>
+          <coordinates>-8.939,13.936</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-31T13:42:35Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-31 13:42</name>
+        <description><![CDATA[<i> 14.16400°N   -9.19700°E</i><br/><i> 14.16400°N   -9.19700°E</i>]]></description>
+        <Point>
+          <coordinates>-9.197,14.164</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-31T15:23:45Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCAstyle</styleUrl>
+        <name>2016-Mar-31 15:23</name>
+        <description><![CDATA[<i> 13.96500°N   -8.74600°E</i><br/><i> 13.96500°N   -8.74600°E</i>]]></description>
+        <Point>
+          <coordinates>-8.746,13.965</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-31T17:51:17Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-31 17:51</name>
+        <description><![CDATA[<i> 13.94500°N   -8.76100°E</i><br/><i> 13.94500°N   -8.76100°E</i>]]></description>
+        <Point>
+          <coordinates>-8.761,13.945</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-01T15:11:19Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Apr-01 15:11</name>
+        <description><![CDATA[<i> 13.95000°N   -8.71400°E</i><br/><i> 13.95000°N   -8.71400°E</i>]]></description>
+        <Point>
+          <coordinates>-8.714,13.950</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-01T18:15:15Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Apr-01 18:15</name>
+        <description><![CDATA[<i> 13.96600°N   -8.72800°E</i><br/><i> 13.96600°N   -8.72800°E</i>]]></description>
+        <Point>
+          <coordinates>-8.728,13.966</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-01T18:16:44Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Apr-01 18:16</name>
+        <description><![CDATA[<i> 13.96200°N   -8.72700°E</i><br/><i> 13.96200°N   -8.72700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.727,13.962</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-01T19:08:48Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Apr-01 19:08</name>
+        <description><![CDATA[<i> 13.96200°N   -8.73500°E</i><br/><i> 13.96200°N   -8.73500°E</i>]]></description>
+        <Point>
+          <coordinates>-8.735,13.962</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-01T21:06:43Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Apr-01 21:06</name>
+        <description><![CDATA[<i> 13.98000°N   -8.72800°E</i><br/><i> 13.98000°N   -8.72800°E</i>]]></description>
+        <Point>
+          <coordinates>-8.728,13.980</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-01T21:58:14Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Apr-01 21:58</name>
+        <description><![CDATA[<i> 13.97900°N   -8.72800°E</i><br/><i> 13.97900°N   -8.72800°E</i>]]></description>
+        <Point>
+          <coordinates>-8.728,13.979</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-01T22:46:54Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Apr-01 22:46</name>
+        <description><![CDATA[<i> 13.96500°N   -8.74100°E</i><br/><i> 13.96500°N   -8.74100°E</i>]]></description>
+        <Point>
+          <coordinates>-8.741,13.965</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-03T01:56:05Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Apr-03 01:56</name>
+        <description><![CDATA[<i> 14.09200°N   -8.70900°E</i><br/><i> 14.09200°N   -8.70900°E</i>]]></description>
+        <Point>
+          <coordinates>-8.709,14.092</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-03T03:36:41Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Apr-03 03:36</name>
+        <description><![CDATA[<i> 14.05900°N   -8.71700°E</i><br/><i> 14.05900°N   -8.71700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.717,14.059</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-03T04:51:12Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Apr-03 04:51</name>
+        <description><![CDATA[<i> 14.05900°N   -8.67100°E</i><br/><i> 14.05900°N   -8.67100°E</i>]]></description>
+        <Point>
+          <coordinates>-8.671,14.059</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-03T18:19:31Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Apr-03 18:19</name>
+        <description><![CDATA[<i> 14.06300°N   -8.70200°E</i><br/><i> 14.06300°N   -8.70200°E</i>]]></description>
+        <Point>
+          <coordinates>-8.702,14.063</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-03T18:54:52Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Apr-03 18:54</name>
+        <description><![CDATA[<i> 14.05700°N   -8.70700°E</i><br/><i> 14.05700°N   -8.70700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.707,14.057</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-03T19:35:22Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Apr-03 19:35</name>
+        <description><![CDATA[<i> 14.06200°N   -8.70300°E</i><br/><i> 14.06200°N   -8.70300°E</i>]]></description>
+        <Point>
+          <coordinates>-8.703,14.062</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-03T21:19:51Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Apr-03 21:19</name>
+        <description><![CDATA[<i> 14.07400°N   -8.69200°E</i><br/><i> 14.07400°N   -8.69200°E</i>]]></description>
+        <Point>
+          <coordinates>-8.692,14.074</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-03T22:04:17Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Apr-03 22:04</name>
+        <description><![CDATA[<i> 14.06000°N   -8.71100°E</i><br/><i> 14.06000°N   -8.71100°E</i>]]></description>
+        <Point>
+          <coordinates>-8.711,14.060</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-05T03:13:34Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Apr-05 03:13</name>
+        <description><![CDATA[<i> 14.12600°N   -8.98900°E</i><br/><i> 14.12600°N   -8.98900°E</i>]]></description>
+        <Point>
+          <coordinates>-8.989,14.126</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-05T04:53:29Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Apr-05 04:53</name>
+        <description><![CDATA[<i> 14.01900°N   -8.71800°E</i><br/><i> 14.01900°N   -8.71800°E</i>]]></description>
+        <Point>
+          <coordinates>-8.718,14.019</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-05T06:16:10Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Apr-05 06:16</name>
+        <description><![CDATA[<i> 14.06100°N   -8.72000°E</i><br/><i> 14.06100°N   -8.72000°E</i>]]></description>
+        <Point>
+          <coordinates>-8.720,14.061</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-05T06:21:10Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Apr-05 06:21</name>
+        <description><![CDATA[<i> 14.05600°N   -8.69600°E</i><br/><i> 14.05600°N   -8.69600°E</i>]]></description>
+        <Point>
+          <coordinates>-8.696,14.056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-05T07:05:22Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Apr-05 07:05</name>
+        <description><![CDATA[<i> 14.05600°N   -8.72300°E</i><br/><i> 14.05600°N   -8.72300°E</i>]]></description>
+        <Point>
+          <coordinates>-8.723,14.056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-05T10:11:32Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Apr-05 10:11</name>
+        <description><![CDATA[<i> 14.00900°N   -8.88700°E</i><br/><i> 14.00900°N   -8.88700°E</i>]]></description>
+        <Point>
+          <coordinates>-8.887,14.009</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-07T06:04:53Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Apr-07 06:04</name>
+        <description><![CDATA[<i> 14.75400°N   -7.78100°E</i><br/><i> 14.75400°N   -7.78100°E</i>]]></description>
+        <Point>
+          <coordinates>-7.781,14.754</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-07T07:12:55Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Apr-07 07:12</name>
+        <description><![CDATA[<i> 14.73300°N   -7.75500°E</i><br/><i> 14.73300°N   -7.75500°E</i>]]></description>
+        <Point>
+          <coordinates>-7.755,14.733</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-07T07:35:42Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Apr-07 07:35</name>
+        <description><![CDATA[<i> 14.73700°N   -7.75000°E</i><br/><i> 14.73700°N   -7.75000°E</i>]]></description>
+        <Point>
+          <coordinates>-7.750,14.737</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-07T09:29:54Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Apr-07 09:29</name>
+        <description><![CDATA[<i> 14.77700°N   -7.76200°E</i><br/><i> 14.77700°N   -7.76200°E</i>]]></description>
+        <Point>
+          <coordinates>-7.762,14.777</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-07T10:24:29Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Apr-07 10:24</name>
+        <description><![CDATA[<i> 14.79000°N   -7.79500°E</i><br/><i> 14.79000°N   -7.79500°E</i>]]></description>
+        <Point>
+          <coordinates>-7.795,14.790</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-07T14:03:12Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Apr-07 14:03</name>
+        <description><![CDATA[<i> 15.36300°N   -7.25300°E</i><br/><i> 15.36300°N   -7.25300°E</i>]]></description>
+        <Point>
+          <coordinates>-7.253,15.363</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-07T15:45:16Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Apr-07 15:45</name>
+        <description><![CDATA[<i> 15.29500°N   -7.59700°E</i><br/><i> 15.29500°N   -7.59700°E</i>]]></description>
+        <Point>
+          <coordinates>-7.597,15.295</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-07T16:39:57Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Apr-07 16:39</name>
+        <description><![CDATA[<i> 15.15900°N   -7.54200°E</i><br/><i> 15.15900°N   -7.54200°E</i>]]></description>
+        <Point>
+          <coordinates>-7.542,15.159</coordinates>
+        </Point>
+      </Placemark>
+      <name>Argos Data</name>
+    </Folder>
+    <name>137397</name>
+    <Style id="NormState">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#E03030;white-space:pre;font-weight:bold">                    GPS</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F03030E0</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HighState">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#E03030;white-space:pre;font-weight:bold">                    GPS</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F03030E0</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCAnormstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#808000;white-space:pre;font-weight:bold">                    LCA</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCAhighstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#808000;white-space:pre;font-weight:bold">                    LCA</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCZnormstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#404040;white-space:pre;font-weight:bold">                    LCZ</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0404040</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCZhighstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#404040;white-space:pre;font-weight:bold">                    LCZ</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0404040</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC1normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#00C000;white-space:pre;font-weight:bold">                    LC1</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FF00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC1highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#00C000;white-space:pre;font-weight:bold">                    LC1</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FF00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC3normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#0000FF;white-space:pre;font-weight:bold">                    LC3</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FF0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC3highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#0000FF;white-space:pre;font-weight:bold">                    LC3</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FF0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC0normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#808080;white-space:pre;font-weight:bold">                    LC0</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FFFFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC0highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#808080;white-space:pre;font-weight:bold">                    LC0</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FFFFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC2normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#33CCCC;white-space:pre;font-weight:bold">                    LC2</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0CCCC33</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC2highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#33CCCC;white-space:pre;font-weight:bold">                    LC2</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0CCCC33</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCBnormstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#804000;white-space:pre;font-weight:bold">                    LCB</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0004080</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCBhighstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>137397</i><span style="color:#804000;white-space:pre;font-weight:bold">                    LCB</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0004080</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="PntIcon">
+      <Pair>
+        <styleUrl>#NormState</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#HighState</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LCAstyle">
+      <Pair>
+        <styleUrl>#LCAnormstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LCAhighstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LCZstyle">
+      <Pair>
+        <styleUrl>#LCZnormstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LCZhighstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC1style">
+      <Pair>
+        <styleUrl>#LC1normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC1highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC3style">
+      <Pair>
+        <styleUrl>#LC3normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC3highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC0style">
+      <Pair>
+        <styleUrl>#LC0normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC0highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC2style">
+      <Pair>
+        <styleUrl>#LC2normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC2highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LCBstyle">
+      <Pair>
+        <styleUrl>#LCBnormstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LCBhighstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+  </Document>
+</kml>

@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Folder>
+      <visibility>0</visibility>
+      <Placemark>
+        <visibility>0</visibility>
+        <MultiGeometry>
+          <LineString>
+            <coordinates> -4.370,40.655 -4.367,40.655 -4.379,40.640 -4.377,40.657 -4.536,40.512 -4.531,40.507 -4.526,40.508 -4.526,40.506 -4.526,40.508 -4.535,40.509 -4.536,40.470 -4.497,40.488 -4.525,40.509 -4.502,40.509 -4.528,40.507 -4.816,40.567 -4.535,40.516 -4.725,40.469 -4.535,40.531 -4.532,40.517 -4.530,40.502 -4.627,40.798 -4.617,40.800 -4.623,40.799 -4.627,40.790 -4.610,40.789 -4.633,40.798 -4.450,40.512 -4.488,40.524 -4.457,40.809 -4.520,40.511 -4.533,40.509 -4.571,40.524 -4.537,40.502 -4.523,40.514 -4.525,40.506 -4.528,40.508 -4.528,40.508 -4.529,40.508 -4.578,40.502 -4.530,40.505 -4.530,40.506 -4.528,40.508</coordinates>
+            <tessellate>1</tessellate>
+          </LineString>
+        </MultiGeometry>
+        <Style id="ArgosPathState">
+          <LineStyle>
+            <width>1.5</width>
+            <color>F0C0C0C0</color>
+          </LineStyle>
+        </Style>
+        <name>Argos Path</name>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-19T20:42:26Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCAstyle</styleUrl>
+        <name>2016-Mar-19 20:42</name>
+        <description><![CDATA[<i> 40.65500°N   -4.37000°E</i><br/><i> 43.77600°N   11.62800°E</i>]]></description>
+        <Point>
+          <coordinates>-4.370,40.655</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-19T21:36:29Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-19 21:36</name>
+        <description><![CDATA[<i> 40.65500°N   -4.36700°E</i><br/><i> 38.90300°N  -12.90700°E</i>]]></description>
+        <Point>
+          <coordinates>-4.367,40.655</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-19T22:24:01Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-19 22:24</name>
+        <description><![CDATA[<i> 40.64000°N   -4.37900°E</i><br/><i> 34.18500°N  -35.73400°E</i>]]></description>
+        <Point>
+          <coordinates>-4.379,40.640</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-20T02:49:43Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-20 02:49</name>
+        <description><![CDATA[<i> 40.65700°N   -4.37700°E</i><br/><i> 37.58100°N   10.41100°E</i>]]></description>
+        <Point>
+          <coordinates>-4.377,40.657</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T20:40:40Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-21 20:40</name>
+        <description><![CDATA[<i> 40.51200°N   -4.53600°E</i><br/><i> 50.10500°N  -56.25300°E</i>]]></description>
+        <Point>
+          <coordinates>-4.536,40.512</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T20:51:11Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-21 20:51</name>
+        <description><![CDATA[<i> 40.50700°N   -4.53100°E</i><br/><i> 42.74800°N    7.09500°E</i>]]></description>
+        <Point>
+          <coordinates>-4.531,40.507</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-21T21:39:43Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-21 21:39</name>
+        <description><![CDATA[<i> 40.50800°N   -4.52600°E</i><br/><i> 38.23100°N  -16.03100°E</i>]]></description>
+        <Point>
+          <coordinates>-4.526,40.508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-22T02:28:27Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCAstyle</styleUrl>
+        <name>2016-Mar-22 02:28</name>
+        <description><![CDATA[<i> 40.50600°N   -4.52600°E</i><br/><i> 35.17800°N   21.33800°E</i>]]></description>
+        <Point>
+          <coordinates>-4.526,40.506</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-22T04:10:32Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-22 04:10</name>
+        <description><![CDATA[<i> 40.50800°N   -4.52600°E</i><br/><i> 44.81400°N  -26.30800°E</i>]]></description>
+        <Point>
+          <coordinates>-4.526,40.508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-23T20:59:26Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-23 20:59</name>
+        <description><![CDATA[<i> 40.50900°N   -4.53500°E</i><br/><i> 42.10200°N    3.56400°E</i>]]></description>
+        <Point>
+          <coordinates>-4.535,40.509</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-23T21:54:58Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-23 21:54</name>
+        <description><![CDATA[<i> 40.47000°N   -4.53600°E</i><br/><i> 36.56400°N  -21.47000°E</i>]]></description>
+        <Point>
+          <coordinates>-4.536,40.470</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-23T22:39:01Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-23 22:39</name>
+        <description><![CDATA[<i> 40.48800°N   -4.49700°E</i><br/><i> 32.52900°N  -44.00700°E</i>]]></description>
+        <Point>
+          <coordinates>-4.497,40.488</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-24T03:45:45Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-24 03:45</name>
+        <description><![CDATA[<i> 40.50900°N   -4.52500°E</i><br/><i> 42.71800°N  -15.37500°E</i>]]></description>
+        <Point>
+          <coordinates>-4.525,40.509</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T21:08:41Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-25 21:08</name>
+        <description><![CDATA[<i> 40.50900°N   -4.50200°E</i><br/><i> 41.15200°N   -1.20700°E</i>]]></description>
+        <Point>
+          <coordinates>-4.502,40.509</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-25T21:57:13Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-25 21:57</name>
+        <description><![CDATA[<i> 40.50700°N   -4.52800°E</i><br/><i> 36.58200°N  -24.25800°E</i>]]></description>
+        <Point>
+          <coordinates>-4.528,40.507</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-26T03:23:28Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCZstyle</styleUrl>
+        <name>2016-Mar-26 03:23</name>
+        <description><![CDATA[<i> 40.56700°N   -4.81600°E</i><br/><i> 40.63500°N   -5.15300°E</i>]]></description>
+        <Point>
+          <coordinates>-4.816,40.567</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T20:49:24Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-27 20:49</name>
+        <description><![CDATA[<i> 40.51600°N   -4.53500°E</i><br/><i> 51.20600°N  -62.02600°E</i>]]></description>
+        <Point>
+          <coordinates>-4.535,40.516</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T21:17:26Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCZstyle</styleUrl>
+        <name>2016-Mar-27 21:17</name>
+        <description><![CDATA[<i> 40.46900°N   -4.72500°E</i><br/><i> 40.46700°N   -4.73400°E</i>]]></description>
+        <Point>
+          <coordinates>-4.725,40.469</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T22:08:28Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-27 22:08</name>
+        <description><![CDATA[<i> 40.53100°N   -4.53500°E</i><br/><i> 35.66500°N  -28.97800°E</i>]]></description>
+        <Point>
+          <coordinates>-4.535,40.531</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-27T22:57:00Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-27 22:57</name>
+        <description><![CDATA[<i> 40.51700°N   -4.53200°E</i><br/><i> 30.91700°N  -52.04500°E</i>]]></description>
+        <Point>
+          <coordinates>-4.532,40.517</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-28T03:00:12Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-28 03:00</name>
+        <description><![CDATA[<i> 40.50200°N   -4.53000°E</i><br/><i> 38.29100°N    6.18600°E</i>]]></description>
+        <Point>
+          <coordinates>-4.530,40.502</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T20:34:08Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-29 20:34</name>
+        <description><![CDATA[<i> 40.79800°N   -4.62700°E</i><br/><i> 44.58900°N   14.89400°E</i>]]></description>
+        <Point>
+          <coordinates>-4.627,40.798</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T21:25:10Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-29 21:25</name>
+        <description><![CDATA[<i> 40.80000°N   -4.61700°E</i><br/><i> 54.56300°N  -80.21800°E</i>]]></description>
+        <Point>
+          <coordinates>-4.617,40.800</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T21:27:10Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-29 21:27</name>
+        <description><![CDATA[<i> 40.79900°N   -4.62300°E</i><br/><i> 39.66200°N   -9.82400°E</i>]]></description>
+        <Point>
+          <coordinates>-4.623,40.799</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T22:12:12Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Mar-29 22:12</name>
+        <description><![CDATA[<i> 40.79000°N   -4.62700°E</i><br/><i> 35.35700°N  -32.37100°E</i>]]></description>
+        <Point>
+          <coordinates>-4.627,40.790</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-30T02:38:55Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-30 02:38</name>
+        <description><![CDATA[<i> 40.78900°N   -4.61000°E</i><br/><i> 36.31900°N   17.36100°E</i>]]></description>
+        <Point>
+          <coordinates>-4.610,40.789</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-30T04:17:29Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-30 04:17</name>
+        <description><![CDATA[<i> 40.79800°N   -4.63300°E</i><br/><i> 46.01700°N  -30.26100°E</i>]]></description>
+        <Point>
+          <coordinates>-4.633,40.798</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-31T20:47:23Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCBstyle</styleUrl>
+        <name>2016-Mar-31 20:47</name>
+        <description><![CDATA[<i> 40.51200°N   -4.45000°E</i><br/><i> 43.31100°N    9.98300°E</i>]]></description>
+        <Point>
+          <coordinates>-4.450,40.512</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-31T21:34:55Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Mar-31 21:34</name>
+        <description><![CDATA[<i> 40.52400°N   -4.48800°E</i><br/><i> 38.85400°N  -12.78700°E</i>]]></description>
+        <Point>
+          <coordinates>-4.488,40.524</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-31T23:15:30Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCAstyle</styleUrl>
+        <name>2016-Mar-31 23:15</name>
+        <description><![CDATA[<i> 40.80900°N   -4.45700°E</i><br/><i> 29.39300°N  -60.31500°E</i>]]></description>
+        <Point>
+          <coordinates>-4.457,40.809</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-01T03:54:43Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Apr-01 03:54</name>
+        <description><![CDATA[<i> 40.51100°N   -4.52000°E</i><br/><i> 43.65000°N  -19.79400°E</i>]]></description>
+        <Point>
+          <coordinates>-4.520,40.511</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-02T20:52:38Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Apr-02 20:52</name>
+        <description><![CDATA[<i> 40.50900°N   -4.53300°E</i><br/><i> 42.74800°N    6.83600°E</i>]]></description>
+        <Point>
+          <coordinates>-4.533,40.509</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-02T21:01:38Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Apr-02 21:01</name>
+        <description><![CDATA[<i> 40.52400°N   -4.57100°E</i><br/><i> 52.00600°N  -67.64700°E</i>]]></description>
+        <Point>
+          <coordinates>-4.571,40.524</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-02T21:47:10Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Apr-02 21:47</name>
+        <description><![CDATA[<i> 40.50200°N   -4.53700°E</i><br/><i> 37.89000°N  -17.32500°E</i>]]></description>
+        <Point>
+          <coordinates>-4.537,40.502</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-02T22:33:42Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC1style</styleUrl>
+        <name>2016-Apr-02 22:33</name>
+        <description><![CDATA[<i> 40.51400°N   -4.52300°E</i><br/><i> 33.10800°N  -40.62700°E</i>]]></description>
+        <Point>
+          <coordinates>-4.523,40.514</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-03T03:32:56Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Apr-03 03:32</name>
+        <description><![CDATA[<i> 40.50600°N   -4.52500°E</i><br/><i> 41.39700°N   -8.87200°E</i>]]></description>
+        <Point>
+          <coordinates>-4.525,40.506</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-04T21:02:23Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Apr-04 21:02</name>
+        <description><![CDATA[<i> 40.50800°N   -4.52800°E</i><br/><i> 41.78700°N    1.98200°E</i>]]></description>
+        <Point>
+          <coordinates>-4.528,40.508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-04T21:50:25Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Apr-04 21:50</name>
+        <description><![CDATA[<i> 40.50800°N   -4.52800°E</i><br/><i> 37.22900°N  -20.98200°E</i>]]></description>
+        <Point>
+          <coordinates>-4.528,40.508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-05T03:11:10Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Apr-05 03:11</name>
+        <description><![CDATA[<i> 40.50800°N   -4.52900°E</i><br/><i> 39.20500°N    1.85600°E</i>]]></description>
+        <Point>
+          <coordinates>-4.529,40.508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-06T21:11:38Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCZstyle</styleUrl>
+        <name>2016-Apr-06 21:11</name>
+        <description><![CDATA[<i> 40.50200°N   -4.57800°E</i><br/><i> 41.19500°N   -1.13300°E</i>]]></description>
+        <Point>
+          <coordinates>-4.578,40.502</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-06T22:49:12Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Apr-06 22:49</name>
+        <description><![CDATA[<i> 40.50500°N   -4.53000°E</i><br/><i> 31.67300°N  -48.80000°E</i>]]></description>
+        <Point>
+          <coordinates>-4.530,40.505</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-07T02:48:54Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LCAstyle</styleUrl>
+        <name>2016-Apr-07 02:48</name>
+        <description><![CDATA[<i> 40.50600°N   -4.53000°E</i><br/><i> 36.97100°N   12.66000°E</i>]]></description>
+        <Point>
+          <coordinates>-4.530,40.506</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-04-07T04:29:28Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC2style</styleUrl>
+        <name>2016-Apr-07 04:29</name>
+        <description><![CDATA[<i> 40.50800°N   -4.52800°E</i><br/><i> 46.52600°N  -34.98500°E</i>]]></description>
+        <Point>
+          <coordinates>-4.528,40.508</coordinates>
+        </Point>
+      </Placemark>
+      <name>Argos Data</name>
+    </Folder>
+    <name>85129</name>
+    <Style id="LCAnormstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#808000;white-space:pre;font-weight:bold">                    LCA</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCAhighstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#808000;white-space:pre;font-weight:bold">                    LCA</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCZnormstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#404040;white-space:pre;font-weight:bold">                    LCZ</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0404040</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCZhighstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#404040;white-space:pre;font-weight:bold">                    LCZ</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0404040</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC1normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#00C000;white-space:pre;font-weight:bold">                    LC1</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FF00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC1highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#00C000;white-space:pre;font-weight:bold">                    LC1</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FF00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC3normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#0000FF;white-space:pre;font-weight:bold">                    LC3</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FF0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC3highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#0000FF;white-space:pre;font-weight:bold">                    LC3</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FF0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC0normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#808080;white-space:pre;font-weight:bold">                    LC0</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FFFFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC0highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#808080;white-space:pre;font-weight:bold">                    LC0</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FFFFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC2normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#33CCCC;white-space:pre;font-weight:bold">                    LC2</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0CCCC33</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC2highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#33CCCC;white-space:pre;font-weight:bold">                    LC2</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0CCCC33</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCBnormstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#804000;white-space:pre;font-weight:bold">                    LCB</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0004080</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCBhighstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85129</i><span style="color:#804000;white-space:pre;font-weight:bold">                    LCB</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0004080</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="LCAstyle">
+      <Pair>
+        <styleUrl>#LCAnormstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LCAhighstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LCZstyle">
+      <Pair>
+        <styleUrl>#LCZnormstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LCZhighstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC1style">
+      <Pair>
+        <styleUrl>#LC1normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC1highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC3style">
+      <Pair>
+        <styleUrl>#LC3normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC3highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC0style">
+      <Pair>
+        <styleUrl>#LC0normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC0highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC2style">
+      <Pair>
+        <styleUrl>#LC2normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC2highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LCBstyle">
+      <Pair>
+        <styleUrl>#LCBnormstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LCBhighstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+  </Document>
+</kml>

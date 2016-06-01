@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Folder>
+      <visibility>0</visibility>
+      <Placemark>
+        <visibility>0</visibility>
+        <MultiGeometry>
+          <LineString>
+            <coordinates> -4.484,40.520 -4.454,40.529 -4.692,40.513 -4.491,40.519</coordinates>
+            <tessellate>1</tessellate>
+          </LineString>
+        </MultiGeometry>
+        <Style id="ArgosPathState">
+          <LineStyle>
+            <width>1.5</width>
+            <color>F0C0C0C0</color>
+          </LineStyle>
+        </Style>
+        <name>Argos Path</name>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T19:49:21Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-29 19:49</name>
+        <description><![CDATA[<i> 40.52000°N   -4.48400°E</i><br/><i> 45.66800°N  -31.72000°E</i>]]></description>
+        <Point>
+          <coordinates>-4.484,40.520</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T20:34:21Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-29 20:34</name>
+        <description><![CDATA[<i> 40.52900°N   -4.45400°E</i><br/><i> 43.47700°N   13.07700°E</i>]]></description>
+        <Point>
+          <coordinates>-4.454,40.529</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T21:30:51Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC0style</styleUrl>
+        <name>2016-Mar-29 21:30</name>
+        <description><![CDATA[<i> 40.51300°N   -4.69200°E</i><br/><i> 39.69100°N   -8.81100°E</i>]]></description>
+        <Point>
+          <coordinates>-4.692,40.513</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>0</visibility>
+        <TimeStamp>
+          <when>2016-03-29T22:13:51Z</when>
+        </TimeStamp>
+        <Snippet></Snippet>
+        <styleUrl>#LC3style</styleUrl>
+        <name>2016-Mar-29 22:13</name>
+        <description><![CDATA[<i> 40.51900°N   -4.49100°E</i><br/><i> 35.03100°N  -32.40700°E</i>]]></description>
+        <Point>
+          <coordinates>-4.491,40.519</coordinates>
+        </Point>
+      </Placemark>
+      <name>Argos Data</name>
+    </Folder>
+    <name>85128</name>
+    <Style id="LCAnormstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#808000;white-space:pre;font-weight:bold">                    LCA</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCAhighstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#808000;white-space:pre;font-weight:bold">                    LCA</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCZnormstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#404040;white-space:pre;font-weight:bold">                    LCZ</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0404040</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCZhighstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#404040;white-space:pre;font-weight:bold">                    LCZ</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0404040</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC1normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#00C000;white-space:pre;font-weight:bold">                    LC1</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FF00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC1highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#00C000;white-space:pre;font-weight:bold">                    LC1</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F000FF00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC3normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#0000FF;white-space:pre;font-weight:bold">                    LC3</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FF0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC3highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#0000FF;white-space:pre;font-weight:bold">                    LC3</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FF0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC0normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#808080;white-space:pre;font-weight:bold">                    LC0</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FFFFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC0highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#808080;white-space:pre;font-weight:bold">                    LC0</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0FFFFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC2normstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#33CCCC;white-space:pre;font-weight:bold">                    LC2</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0CCCC33</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LC2highstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#33CCCC;white-space:pre;font-weight:bold">                    LC2</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0CCCC33</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCBnormstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#804000;white-space:pre;font-weight:bold">                    LCB</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0004080</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="LCBhighstyle">
+      <BalloonStyle>
+        <text><![CDATA[ID: <i>85128</i><span style="color:#804000;white-space:pre;font-weight:bold">                    LCB</span><br/><span style="font-size:50%"><br/></span><span style="font-size:135%;font-weight:bold">$[name]</span><br/><span style="font-size:50%"><br/></span>$[description]]]></text>
+      </BalloonStyle>
+      <IconStyle>
+        <color>F0004080</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.75</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="LCAstyle">
+      <Pair>
+        <styleUrl>#LCAnormstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LCAhighstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LCZstyle">
+      <Pair>
+        <styleUrl>#LCZnormstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LCZhighstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC1style">
+      <Pair>
+        <styleUrl>#LC1normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC1highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC3style">
+      <Pair>
+        <styleUrl>#LC3normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC3highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC0style">
+      <Pair>
+        <styleUrl>#LC0normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC0highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LC2style">
+      <Pair>
+        <styleUrl>#LC2normstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LC2highstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="LCBstyle">
+      <Pair>
+        <styleUrl>#LCBnormstyle</styleUrl>
+        <key>normal</key>
+      </Pair>
+      <Pair>
+        <styleUrl>#LCBhighstyle</styleUrl>
+        <key>highlight</key>
+      </Pair>
+    </StyleMap>
+  </Document>
+</kml>
