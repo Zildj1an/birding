@@ -1,0 +1,15 @@
+/* TEAM */
+    Lead developer: Abel Serrano Juste
+    Github: @akronix
+    Contact: akronix5@gmail.com
+    From: Madrid, Spain
+
+    Developer: Pedro Fernández Rodríguez
+    Github: @pedrolander
+    From: Madrid, Spain
+
+/* THANKS */
+    MozSprint16 Contributor: Antonio J. Padial
+    Organization: INIA
+    Twitter/github: @ajspadial
+    Location: Madrid, Spain
