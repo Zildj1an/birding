@@ -1,4 +1,6 @@
 # birding
+[![Gitter](https://badges.gitter.im/Akronix/birding.svg)](https://gitter.im/Akronix/birding?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 ## Introduction
 This project aims to develop an intuitive, portable, extensible and easy to use web Application for tracking birds from GPS data.
 
@@ -11,3 +13,8 @@ We are currently working to support data format for the following GPS providers:
 * Ecotone
 * microwave 
  
+## Dependencies for the WebApp:
+ * Django >= 1.8.7
+ * Python 3.5
+ * PostgreSQL >= 9.1
+ * psycopg2 >= 2.4.5
