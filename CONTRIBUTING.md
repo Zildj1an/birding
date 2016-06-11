@@ -15,7 +15,7 @@ We follow the terms of the Covenant Code, a code of conduct writen for open sour
 In any case, be nice!
 
 ### LICENSE
-This project is published under GPLv3 license. Learn more in `LICENSE` file.
+This project is published under GNU Affero General Public License version 3. You can find the text for the license in `LICENSE.txt` file. Learn more about this license here: https://www.gnu.org/licenses/why-affero-gpl.html
 
 ## Setting your development environment
 You'll need a Python development environment. Come soon for more information about how to setup it.
