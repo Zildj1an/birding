@@ -10,7 +10,7 @@ Here you'll find some recomendations you should know about when considering help
 We're still working on this section. Please check it soon for more information.
 
 ### Code of conduct
-We follow the terms of the Covenant Code, a code of conduct writen for open source projects and distributed under a MIT License. You can read it in the [CODE_OF _CONDUCT.md](CODE_OF_CONDUCT.md) file.
+We follow the terms of the Covenant Code, a code of conduct written for open source projects and distributed under a MIT License. You can read it in the [CODE_OF _CONDUCT.md](CODE_OF_CONDUCT.md) file.
 
 In any case, be nice!
 
